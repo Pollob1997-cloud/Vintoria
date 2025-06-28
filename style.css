@@ -1,0 +1,31 @@
+/* Vintoria Starter Styles */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fffefc;
+    color: #333;
+}
+
+header {
+    background: #fff4e6;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #b1683d;
+}
+
+section {
+    padding: 40px 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+footer {
+    background: #eee;
+    text-align: center;
+    padding: 20px;
+}
